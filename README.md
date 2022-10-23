@@ -5,8 +5,10 @@
 
 <br>
 
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=A24D9A&width=435&lines=Cyber+security+student+" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F65F9A&width=435&lines=Cyber+security+student+" alt="Typing SVG" /></a> </p>
+
 <br>
 <br>
 
