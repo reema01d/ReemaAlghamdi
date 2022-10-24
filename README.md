@@ -5,44 +5,43 @@
 
 <br>
 
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F65F9A&width=435&lines=Cyber+security+student+" alt="Typing SVG" /></a> </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=A24D9A&width=435&lines=Cyber+security+student+" alt="Typing SVG" /></a></p>
 <br>
 <br>
 
 #
 ### 👨‍💻 Programming and markup languages
 
-<br>         
+<p style="display: inline-block;" > 
+
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
+
+<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="php" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-
-<br/>
-
 <br>
-<br>
+<p/>
+
+#
 
 ### 🧰 Software and tools
+<p style="display: inline-block;" > 
 
-<br>
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;"   src="https://img.icons8.com/color/48/000000/kali-linux.png" />
 
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
-
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
 
-
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          
-</br>
- <br>
+<br>
+         
+</p>
 
  #
  
@@ -61,4 +60,3 @@
 </details>
 
   <br/>
- 
